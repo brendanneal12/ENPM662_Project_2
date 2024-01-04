@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/brendanneal12/ros2_ws/install/car/include/**",
+        "/home/brendanneal12/ros2_ws/install/busbot/include/**",
+        "/opt/ros/galactic/include/**",
+        "/home/brendanneal12/ros2_ws/src/busbot/include/**",
+        "/home/brendanneal12/ros2_ws/src/car/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
